@@ -29,6 +29,7 @@ app.get("/cotacao", (req, res) => {
   }
 });
 
+// 
 app.listen(3000, err => {
   if (err) {
     console.log("nao foi possivel iniciar");
