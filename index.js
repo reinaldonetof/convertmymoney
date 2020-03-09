@@ -31,7 +31,6 @@ app.get("/cotacao", (req, res) => {
   }
 });
 
-// 
 app.listen(port, err => {
   if (err) {
     console.log("nao foi possivel iniciar");
