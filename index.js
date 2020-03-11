@@ -12,7 +12,7 @@ app.set("views", path.join(__dirname, "views"));
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/", async (req, res) => {
-  const cotacao = await apiBCB.getCotacao("03-10-2020")
+  const cotacao = await apiBCB.getCotacao()
   res.render("home", {
     cotacao
   });
