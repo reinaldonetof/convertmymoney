@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1583942556350" clover="3.2.0">
-  <project timestamp="1583942556350" name="All files">
-    <metrics statements="23" coveredstatements="20" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6" elements="30" coveredelements="26" complexity="0" loc="23" ncloc="23" packages="1" files="2" classes="2"/>
+<coverage generated="1583951010031" clover="3.2.0">
+  <project timestamp="1583951010031" name="All files">
+    <metrics statements="23" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="30" coveredelements="29" complexity="0" loc="23" ncloc="23" packages="1" files="2" classes="2"/>
     <file name="api.bcb.js" path="C:\Users\reina\Desktop\ReactAula\FullStackMaster\Exercicios\semana02\ConvertMyMoney\lib\api.bcb.js">
-      <metrics statements="18" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+      <metrics statements="18" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
-      <line num="4" count="1" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
       <line num="12" count="1" type="stmt"/>
-      <line num="13" count="1" type="stmt"/>
-      <line num="14" count="1" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
       <line num="19" count="1" type="stmt"/>
-      <line num="20" count="1" type="stmt"/>
-      <line num="21" count="1" type="stmt"/>
-      <line num="22" count="1" type="stmt"/>
-      <line num="23" count="1" type="stmt"/>
-      <line num="24" count="0" type="stmt"/>
-      <line num="25" count="0" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
       <line num="27" count="0" type="stmt"/>
       <line num="31" count="1" type="stmt"/>
     </file>
